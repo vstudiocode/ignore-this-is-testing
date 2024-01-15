@@ -1,0 +1,84 @@
+{
+    "commands": [
+        {
+            "command": "/help",
+            "explanation": "Display a list of available commands."
+        },
+        {
+            "command": "/start",
+            "explanation": "Begin a new session or conversation."
+        },
+        {
+            "command": "/stop",
+            "explanation": "End the current session or conversation."
+        },
+        {
+            "command": "/status",
+            "explanation": "Check the status of the system."
+        },
+        {
+            "command": "/info",
+            "explanation": "Retrieve information about the application."
+        },
+        {
+            "command": "/user",
+            "explanation": "Get details about the current user."
+        },
+        {
+            "command": "/settings",
+            "explanation": "Manage application settings."
+        },
+        {
+            "command": "/profile",
+            "explanation": "View or update user profile information."
+        },
+        {
+            "command": "/search",
+            "explanation": "Search for specific content or information."
+        },
+        {
+            "command": "/create",
+            "explanation": "Create a new item or entity."
+        },
+        {
+            "command": "/edit",
+            "explanation": "Modify existing content or settings."
+        },
+        {
+            "command": "/delete",
+            "explanation": "Remove an item or entity from the system."
+        },
+        {
+            "command": "/list",
+            "explanation": "Retrieve a list of items or entities."
+        },
+        {
+            "command": "/connect",
+            "explanation": "Establish a connection to an external service or device."
+        },
+        {
+            "command": "/disconnect",
+            "explanation": "End the connection to an external service or device."
+        },
+        {
+            "command": "/analyze",
+            "explanation": "Perform data analysis or generate reports."
+        },
+        {
+            "command": "/export",
+            "explanation": "Export data or content in a specific format."
+        },
+        {
+            "command": "/import",
+            "explanation": "Import data or content into the system."
+        },
+        {
+            "command": "/share",
+            "explanation": "Share information or content with others."
+        },
+        {
+            "command": "/vote",
+            "explanation": "Cast a vote or participate in a poll."
+        }
+    ]
+}
